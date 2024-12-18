@@ -1,2 +1,2 @@
 # Product-Performance
-Power BI Dashboard
+Built Power BI dashboards to analyze trends, profitability, and country-wise performance, leveraging Python (pandas, numpy) and SQL for data preparation and insights.
