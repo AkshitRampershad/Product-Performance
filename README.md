@@ -19,3 +19,5 @@ Built Power BI dashboards to analyze trends, profitability, and country-wise per
 ##### Implement cost-reduction strategies for high-cost items to maximize profitability.
 ##### Expand distribution in high-revenue regions like the USA and Jamaica.
 ##### Leverage seasonal demand patterns to optimize sales campaigns.
+
+![Product Performance Dashboard](https://github.com/user-attachments/assets/4f50e7e9-3ed8-46b4-94f5-16d54f528774)
