@@ -22,3 +22,5 @@ Built Power BI dashboards to analyze trends, profitability, and country-wise per
 
 ![Product Power BI dashboard 2](https://github.com/user-attachments/assets/97718989-de04-4efb-bc27-a484d29f80ca)
 
+![image](https://github.com/user-attachments/assets/424e4f5f-1771-4632-bf1b-b1d3b546fd21)
+
